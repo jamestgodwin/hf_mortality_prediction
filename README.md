@@ -1,4 +1,4 @@
-# hf_mortality_prediction
+# Heart Failure Mortality Prediction
 Experimental project predicting mortality from heart failure using random forests and decision trees
 
 
